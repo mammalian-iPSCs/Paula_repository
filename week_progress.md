@@ -13,18 +13,38 @@ This study proposes to evaluate the evolutionary conservation of regulatory logi
 ## 2. Laboratory Notebook (The "Log")
 To ensure research continuity, you are required to maintain a chronological log of your work below. Update this weekly.
 
-### Date: 2026-02-11
+### Week 1 -> Date: 2026-02-11
 * **Objectives:** What was the goal for this week?
 
   - Read the [paper](https://www.nature.com/articles/s41586-025-10014-0) about AlphaGenome
   - Know more about the concepts of LiftOver, HALper, Synteny Blocks, TFBS i TF footprint
   - Set up jupyter-lab, python, R... all the tools we are going to use during the following weeks
   
-* **Methods:** Which scripts or notebooks were used? (Link to file in `/notebooks`).
+* **Methods:** Which scripts or notebooks were used?
+  
+  We only used the paper which we have saved in `/lab-notebooks` [View AlphaGenome paper(PDF)](lab-notebooks/alphagenome.pdf)
+  
 * **Results:** Briefly state findings or attach a small figure.
+
   Understad of all the concepts
   
 * **Blockers:** Any technical or theoretical issues encountered.
+
+---
+
+### Week 2 -> Date: 2026-02-xx
+
+---
+
+### Week 3 -> Date: 2026-02-xx
+
+---
+
+### Week 4 -> Date: 2026-02-xx
+
+---
+
+### Week 5 -> Date: 2026-02-xx
 
 ---
 
@@ -34,7 +54,7 @@ All work must be organized according to the following structure:
 
 | Directory | Content Type |
 | :--- | :--- |
-| `/notebooks` | Drafts, exploratory analysis, and visualization. |
+| `/lab-notebooks` | Drafts, exploratory analysis, and visualization. |
 | `/src` | Modularized, commented code and final pipelines. |
 | `/results` | Significant figures, p-values, and processed outputs. |
 | `/data` | Small reference files only (e.g., sample manifests). |

@@ -1,19 +1,29 @@
-# Student Research Repository: [Project Title]
+# Student Research Repository: Transfer Learning of Pluripotency TF
 
-**Researcher:** [Student Name]
-**Project Lead:** [Your Name, PhD]
-**Status:** [Active / Completed]
+**Researcher:** Paula Martín Cabezas
+
+**Project Lead:** Paula Martín Cabezas, Undergraduate
+
+**Status:** Active
 
 ## 1. Project Objective
 Provide a brief (200-word) summary of the specific research question you are addressing this semester.
+This study proposes to evaluate the evolutionary conservation of regulatory logic by deploying deep learning models, trained on human genomic data, to predict Transcription Factor (TF) binding sites across a diverse phylogenetic spectrum ranging from non-human primates to distant mammals. By leveraging the predictive power of human-centric models on non-human genomes, we aim to quantify the "decay" of predictive accuracy as genetic distance increases. To validate these computational inferences, we will integrate species-specific ATAC-seq (chromatin accessibility) and RNA-seq (transcriptional output) datasets, providing a multi-omic ground truth to determine if predicted binding sites correlate with open chromatin and functional gene expression. Ultimately, this research will reveal the extent to which human-derived regulatory motifs remain functional across species and identify where lineage-specific innovations break the standard predictive rules.
 
 ## 2. Laboratory Notebook (The "Log")
 To ensure research continuity, you are required to maintain a chronological log of your work below. Update this weekly.
 
-### [Date: YYYY-MM-DD]
+### Date: 2026-02-11
 * **Objectives:** What was the goal for this week?
+
+  - Read the [paper](https://www.nature.com/articles/s41586-025-10014-0) about AlphaGenome
+  - Know more about the concepts of LiftOver, HALper, Synteny Blocks, TFBS i TF footprint
+  - Set up jupyter-lab, python, R... all the tools we are going to use during the following weeks
+  
 * **Methods:** Which scripts or notebooks were used? (Link to file in `/notebooks`).
 * **Results:** Briefly state findings or attach a small figure.
+  Understad of all the concepts
+  
 * **Blockers:** Any technical or theoretical issues encountered.
 
 ---

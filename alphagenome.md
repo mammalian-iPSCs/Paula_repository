@@ -17,7 +17,7 @@ Research article using bioinformatics and computational genomics
 
 **Context: What work does it relate to?**
 
-Is related with Enformer, Borzoi and SpliceIA. Some of them can watch long fragments of DNA but without precision, and som others the other way around. So Alphagenome tries to have both things
+Is related with Enformer, Borzoi and SpliceIA. Some of them can watch long fragments of DNA but without precision, and some others the other way around. So Alphagenome tries to have both things
 
 **Correctnes: Are assumptions valid?**
 

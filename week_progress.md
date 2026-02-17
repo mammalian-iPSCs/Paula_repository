@@ -26,13 +26,27 @@ To ensure research continuity, you are required to maintain a chronological log 
   
 * **Results:** Briefly state findings or attach a small figure.
 
-  Understad of all the concepts
+  Understanding of all the concepts
   
 * **Blockers:** Any technical or theoretical issues encountered.
 
 ---
 
-### Week 2 -> Date: 2026-02-xx
+### Week 2 -> Date: 2026-02-17
+* **Objectives:** What was the goal for this week?
+
+  - Read the [paper](https://www.nature.com/articles/s41588-024-02053-6) about Borzoi
+  - Compare the differences between Borzoi and AlphaGenome and capabilities they have
+  
+* **Methods:** Which scripts or notebooks were used?
+  
+  We only used the paper which we have saved in `/lab-notebooks` [View AlphaGenome paper(PDF)](lab-notebooks/borzoi.pdf)
+  
+* **Results:** Briefly state findings or attach a small figure.
+
+  Understanding of all the concepts
+  
+* **Blockers:** Any technical or theoretical issues encountered.
 
 ---
 

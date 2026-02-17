@@ -40,7 +40,7 @@ To ensure research continuity, you are required to maintain a chronological log 
   
 * **Methods:** Which scripts or notebooks were used?
   
-  We only used the paper which we have saved in `/lab-notebooks` [View AlphaGenome paper(PDF)](lab-notebooks/borzoi.pdf)
+  We only used the paper which we have saved in `/lab-notebooks` [View Borzoi paper(PDF)](lab-notebooks/borzoi.pdf)
   
 * **Results:** Briefly state findings or attach a small figure.
 

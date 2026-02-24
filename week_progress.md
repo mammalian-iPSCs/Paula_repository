@@ -50,7 +50,21 @@ To ensure research continuity, you are required to maintain a chronological log 
 
 ---
 
-### Week 3 -> Date: 2026-02-xx
+### Week 3 -> Date: 2026-02-24
+* **Objectives:** What was the goal for this week?
+
+  - Analyze and understanding of all the concepts in the [paper](https://www.nature.com/articles/s41588-024-02053-6) about Borzoi
+  - Know which type of data are we going to work with when usin Borzoi model
+  
+* **Methods:** Which scripts or notebooks were used?
+  
+  We used the paper which we have saved in `/lab-notebooks` [View Borzoi paper(PDF)](lab-notebooks/borzoi.pdf) and also we annotate this analysis in this [file](lab-notebooks/Borzoi_information.md)
+  
+* **Results:** Briefly state findings or attach a small figure.
+
+  Understanding of all the concepts and how to use them
+  
+* **Blockers:** Any technical or theoretical issues encountered.
 
 ---
 
